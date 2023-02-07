@@ -1,3 +1,3 @@
 My first readme
-# This is a project on how to setup my git and github account
+# This is a project on how to update README file
 
